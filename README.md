@@ -1,4 +1,4 @@
-本项目使用的是商汤科技的mmdetection，链接如下https://github.com/open-mmlab/mmdetection
+本项目使用的是商汤科技的mmdetection，链接如下https://github.com/open-mmlab/mmdetection, 关键使用了Retinanet101，具体配置参考config文件夹下Retina_r101.py，采用自定义的数据集
 
 一、安装
 
